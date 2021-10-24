@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300&display=swap");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  padding: 1rem;
+  width: 60%;
+  font-size: 1.3rem;
+}
+h1 {
+  font-family: "JetBrains Mono", monospace;
+}
